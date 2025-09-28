@@ -9,7 +9,7 @@
 ![pyWeather](/Weather-api.png)
 
 - Ats score checker
-![App Screenshot](/Ats.png)
+![App Screenshot](/Ats-score.png)
 
 - Url shortner
 ![App Screenshot](/Url-shortner.png)

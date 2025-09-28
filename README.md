@@ -1,1 +1,1 @@
-Hosting images in here for <img src="#"> or <a href=""> 
+Hosting images in here for references 

@@ -6,16 +6,16 @@
 
 ## Projects
 - Weather api
-![pyWeather](/Weather-api.png)
+![Weather-api](/Weather-api.png)
 
 - Ats score checker
-![App Screenshot](/Ats-score.png)
+![Ats-score](/Ats-score.png)
 
 - Url shortner
-![App Screenshot](/Url-shortner.png)
+![Url-shortner](/Url-shortner.png)
 
 - Nids classifier
-![App Screenshot](/Nids-classifier.png)
+![Nids-classifer](/Nids-classifier.png)
 
 - Portfolio
-![App Screenshot](/Portfolio.png)
+![Portfolio](/Portfolio.png)

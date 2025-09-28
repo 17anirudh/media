@@ -6,7 +6,7 @@
 
 ## Projects
 - Weather api
-![Weather-api](https://github.com/17anirudh/owl-svg/blob/main/Weather-api.png?raw=true)
+![Weather-api](/Weather-api.png)
 
 - Ats score checker
 ![Ats-score](/Ats-score.png)
